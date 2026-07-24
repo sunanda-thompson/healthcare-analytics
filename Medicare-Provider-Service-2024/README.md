@@ -29,29 +29,24 @@ These states and specialties represent core markets for large national payers (U
 ---
 
 ## 🖥️ Dashboard Preview
-
 > Full interactive dashboard: [`Medicare PowerBI Dashboard.pdf`](Medicare%20PowerBI%20Dashboard.pdf). Individual finding charts below live in the `Charts/` folder.
 
 ### Finding 1: Specialty Utilization
 Internal Medicine leads total services and beneficiaries served in every state.
-
-![Total Services by Specialty and State](Charts/1_1_Total_Services.png)
-![Total Beneficiaries Served by Specialty and State](Charts/1_2_Total_Beneficiaries.png)
+![Total Services by Specialty and State](https://raw.githubusercontent.com/sunanda-thompson/healthcare-analytics/65c1f8187df74df22b69a71b1a7b5f71137198aa/Medicare-Provider-Service-2024/Charts/1.1%20Total%20Services.png)
+![Total Beneficiaries Served by Specialty and State](https://raw.githubusercontent.com/sunanda-thompson/healthcare-analytics/65c1f8187df74df22b69a71b1a7b5f71137198aa/Medicare-Provider-Service-2024/Charts/1.2%20Total%20Beneficiaries.png)
 
 ### Finding 2: Cost & Payment Gap
 Cardiology shows the widest gap between submitted charges and Medicare payment (5.67x ratio).
-
-![Average Submitted Charge vs Medicare Allowed vs Medicare Payment](Charts/2__Average_Amount.png)
+![Average Submitted Charge vs Medicare Allowed vs Medicare Payment](https://raw.githubusercontent.com/sunanda-thompson/healthcare-analytics/65c1f8187df74df22b69a71b1a7b5f71137198aa/Medicare-Provider-Service-2024/Charts/2.%20Average%20Amount.png)
 
 ### Finding 3: Geographic Cost Comparison
 Florida has the highest standardized payment even after geographic adjustment, and Cardiology commands the highest payment in every state.
-
-![Average Standardized Medicare Payment by State and Specialty](Charts/3__Average_Medicare_Payments.png)
+![Average Standardized Medicare Payment by State and Specialty](https://raw.githubusercontent.com/sunanda-thompson/healthcare-analytics/65c1f8187df74df22b69a71b1a7b5f71137198aa/Medicare-Provider-Service-2024/Charts/3.%20Average%20Medicare%20Payments.png)
 
 ### Finding 4: Provider Performance
 Eric Weiner (Internal Medicine, FL) tops the list with 73,417 beneficiaries served.
-
-![Top 20 Providers by Total Beneficiaries Served](Charts/4__Top_20_Providers.png)
+![Top 20 Providers by Total Beneficiaries Served](https://raw.githubusercontent.com/sunanda-thompson/healthcare-analytics/65c1f8187df74df22b69a71b1a7b5f71137198aa/Medicare-Provider-Service-2024/Charts/4.%20Top%2020%20Providers.png)
 
 ---
 
